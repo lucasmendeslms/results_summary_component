@@ -136,7 +136,11 @@ a {
   background: hsl(6, 100%, 98%);
 }
 
-.reaction h3 {
+h2 {
+  font-size: 1.17rem;
+}
+
+.reaction h2 {
   color: hsl(354, 82%, 74%);
   font-weight: bold;
 }
@@ -145,7 +149,7 @@ a {
   background: #fffbf2;
 }
 
-.memory h3 {
+.memory h2 {
   color: hsl(39, 100%, 56%);
 }
 
@@ -153,7 +157,7 @@ a {
   background: #f2fbfa;
 }
 
-.verbal h3 {
+.verbal h2 {
   color: hsl(166, 100%, 37%)
 }
 
@@ -161,7 +165,7 @@ a {
   background: hsl(240, 71%, 97%);
 }
 
-.visual h3 {
+.visual h2 {
   color: #434893;
 }
 
@@ -170,9 +174,6 @@ button {
   border: none;
   height: 50px;
   margin-top: 20px;
-}
-
-button a {
   color: hsl(0, 0%, 100%);
   font-size: 0.950rem;
   font-weight: 500;
